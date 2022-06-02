@@ -1,5 +1,9 @@
 # logica-vnw
 
-atividades de logica de programação com JS
+Anotações das aulas de Logica de Programação pelo curso - Vai Na Web
 
-Para acessar os resultados utilize a tecla F12 para ir ao console 
+Você pode executar cada uma das atividades abrindo em seu navegador e clicando da tecla F12.
+
+
+
+
